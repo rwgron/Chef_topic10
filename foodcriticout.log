@@ -1,0 +1,11 @@
+FC002: Avoid string interpolation where not required: ./recipes/mod_auth_openid.rb:85
+FC002: Avoid string interpolation where not required: ./recipes/mod_auth_openid.rb:106
+FC007: Ensure recipe dependencies are reflected in cookbook metadata: ./recipes/iptables.rb:19
+FC007: Ensure recipe dependencies are reflected in cookbook metadata: ./recipes/logrotate.rb:25
+FC015: Consider converting definition to a LWRP: ./definitions/apache_conf.rb:1
+FC015: Consider converting definition to a LWRP: ./definitions/apache_config.rb:1
+FC015: Consider converting definition to a LWRP: ./definitions/apache_mod.rb:1
+FC015: Consider converting definition to a LWRP: ./definitions/apache_module.rb:1
+FC015: Consider converting definition to a LWRP: ./definitions/apache_site.rb:1
+FC015: Consider converting definition to a LWRP: ./definitions/web_app.rb:1
+
